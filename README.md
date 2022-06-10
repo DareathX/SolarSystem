@@ -1,4 +1,4 @@
-# SolarSystem
+# Matrix based SolarSystem
 School project where calculations had to be done with matrices.
 Created in unity.
 
